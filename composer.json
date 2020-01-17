@@ -1,0 +1,26 @@
+{
+    "name": "NabiKAZ/Follow-Following-Instagram",
+    "description": "Follow Following Instagram",
+    "version": "0.1.0",
+    "type": "project",
+    "keywords": [
+        "instagram",
+        "follow",
+        "unfollow"
+    ],
+    "homepage": "https://github.com/NabiKAZ/Follow-Following-Instagram",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Nabi KaramAliZadeh",
+            "email": "nabikaz@gmail.com",
+            "homepage": "http://www.nabi.ir"
+        }
+    ],
+    "require": {
+        "mgp25/instagram-php": "^7.0"
+    },
+    "require-dev": {
+        "kint-php/kint": "^3.3"
+    }
+}
